@@ -1,0 +1,7 @@
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.csproj.AssemblyReference.cache
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\bin\Debug\DesafioInterfaces.exe.config
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\bin\Debug\DesafioInterfaces.exe
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\bin\Debug\DesafioInterfaces.pdb
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.exe
+C:\Users\Nahuel Ripoll\source\repos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.pdb
