@@ -1,0 +1,7 @@
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\bin\Debug\DesafioVolador.exe.config
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\bin\Debug\DesafioVolador.exe
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\bin\Debug\DesafioVolador.pdb
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\obj\Debug\DesafioVolador.csproj.AssemblyReference.cache
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\obj\Debug\DesafioVolador.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\obj\Debug\DesafioVolador.exe
+C:\Users\Nahuel Ripoll\Desktop\Proyectos VS\Clase14Lab\DesafioVolador\obj\Debug\DesafioVolador.pdb
