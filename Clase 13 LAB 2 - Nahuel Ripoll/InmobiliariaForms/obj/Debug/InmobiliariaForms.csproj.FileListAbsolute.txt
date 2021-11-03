@@ -1,0 +1,20 @@
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\bin\Debug\InmobiliariaForms.exe.config
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\bin\Debug\InmobiliariaForms.exe
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\bin\Debug\InmobiliariaForms.pdb
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.csproj.AssemblyReference.cache
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.Form1.resources
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.Properties.Resources.resources
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.csproj.GenerateResource.cache
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.csproj.CoreCompileInputs.cache
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.exe
+C:\Users\aguss\source\repos\InmobiliariaForms\InmobiliariaForms\obj\Debug\InmobiliariaForms.pdb
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\bin\Debug\InmobiliariaForms.exe.config
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\bin\Debug\InmobiliariaForms.exe
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\bin\Debug\InmobiliariaForms.pdb
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.csproj.AssemblyReference.cache
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.Form1.resources
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.Properties.Resources.resources
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.csproj.GenerateResource.cache
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.exe
+C:\Users\Nahuel Ripoll\Desktop\DesafioHerencia-main\DesafioHerencia-main\InmobiliariaForms\obj\Debug\InmobiliariaForms.pdb
