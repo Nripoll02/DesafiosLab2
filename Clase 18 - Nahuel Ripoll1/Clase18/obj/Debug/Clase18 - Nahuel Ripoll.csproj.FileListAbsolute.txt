@@ -1,0 +1,9 @@
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\obj\Debug\Clase18.Properties.Resources.resources
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\obj\Debug\Clase18 - Nahuel Ripoll.csproj.GenerateResource.cache
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\obj\Debug\Clase18 - Nahuel Ripoll.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\obj\Debug\Clase18.exe
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\obj\Debug\Clase18.pdb
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\bin\Debug\Clase18.exe.config
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\bin\Debug\Clase18.exe
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\bin\Debug\Clase18.pdb
+C:\Users\Nahuel Ripoll\Desktop\Clase18LABII\Clase18\obj\Debug\Clase18.form1.resources
